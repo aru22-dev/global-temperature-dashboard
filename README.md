@@ -4,6 +4,12 @@
 
 Understanding climate trends is crucial in tackling climate change. This dashboard provides **insights into global temperature variations** from 1850 to 2010 across key countries—Brazil, Philippines, China, Sweden, India, the U.S., and Italy.  
 
+## 🌆 Dashboard Preview
+<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/3f012334-c8c8-4839-8141-904945fb35bf" />
+<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/c2e1ab5a-2f80-417f-8e85-3d105ea02e4f" />
+<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/8b48779a-ed29-49bb-994f-378b00f60311" />
+<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/d7468d4a-cf46-44df-9aa9-e51006952d49" />
+
 🔹 **Why It Matters?**  
 - Identifies long-term warming trends across regions 🌡️  
 - Highlights temperature fluctuations using **filled maps, line charts, treemaps, and clustered column charts** 📈  
